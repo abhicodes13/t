@@ -14,7 +14,7 @@ export default function App() {
     <Container sx={{marginY:2}}>
       <ColorAlerts />
        {cities.map((city)=>(
-      <>
+      <> 
         <Typography
           variant='h4'
           component='h2'
